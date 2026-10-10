@@ -1,0 +1,4 @@
+*.stl binary
+*.pdf binary
+*.png binary
+*.scad text eol=lf linguist-language=OpenSCAD
